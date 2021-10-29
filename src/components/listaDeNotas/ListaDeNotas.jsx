@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CardNota from "../cardNota/CardNota";
+import CardNota from "../cardNota/";
 import "./estilo.css";
 
 class ListaDeNotas extends Component {

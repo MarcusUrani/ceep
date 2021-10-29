@@ -1,0 +1,30 @@
+.categorias {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.25rem 0;
+}
+
+.lista-categorias {
+    display: flex;
+    justify-content: space-around;
+    gap: 3.75rem;
+}
+
+.lista-categorias__itens {
+    font-size: 1.125rem;
+    font-weight: bold;
+    border-radius: 0.3125rem;
+    background-color: #373f51;
+    color: #fff;
+    padding: 0.125rem;
+}
+
+.categorias__input {
+    border: none;
+    border-radius: 0.625rem;
+    border-color: #373f51;
+    border-style: solid;
+    border-width: 0,09375rem;
+    background-color: #ececec;
+}
